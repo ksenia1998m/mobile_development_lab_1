@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Кубики</string>
+     <string name="rules">Вы и робот должны бросить 2 кубика по очереди. Если выпадает дубль, необходимо перебросить еще раз! Главная цель набрать 100 очков быстрее соперника! Удачи! </string>
+    <string name="your_points">Ваши очки:</string>
+    <string name="robot_points_text">Очки робота:</string>
+    <string name="cubes_text">Выпало:</string>
+    <string name="second_cube_points">-</string>
+    <string name="first_cube_points">-</string>
+    <string name="and">и</string>
+    <string name="robot_points">0</string>
+    <string name="your_points_number">0</string>
+    <string name="btn_text">Бросить кубики</string>
+    <string name="title_activity_win">WinActivity</string>
+    <string name="win_text">Вы выиграли!</string>
+    <string name="loose_text">Увы! Вы проиграли!</string>
+    <string name="nobody_text">Ничья!</string>
+    <string name="winimg_text">WinIMG</string>
+    <string name="s1200">s1200</string>
+    <string name="button_new_game">Играть снова</string>
+    <string name="button_new">Играть снова</string>
+    <string name="name_0">Правило игры!</string>
+</resources>
